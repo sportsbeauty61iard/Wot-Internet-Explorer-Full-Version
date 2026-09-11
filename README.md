@@ -237,3 +237,6 @@ This repository serves as the official landing page for WOT Internet Explorer. T
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of WOT Internet Explorer today!**
+
+---
+**Last updated:** 2026-09-11 12:38:27 UTC
